@@ -108,7 +108,7 @@ class _WorkState extends State<Work> {
                   flex: 4,
                   child: SizedBox(
                     height: size.height *0.4,
-                    child: WorkBox(),
+                    child: const WorkBox(),
                   ))
             ],
           )

@@ -43,7 +43,7 @@ class FeatureProject extends StatelessWidget {
                     width: size.width * 0.5,
                     //color: Colors.redAccent,
                     child: Image(
-                      fit: BoxFit.fitWidth,
+                      fit: BoxFit.fitHeight,
                       image: AssetImage(imagePath),
                     ),
                   ),

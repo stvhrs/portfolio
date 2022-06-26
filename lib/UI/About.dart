@@ -42,7 +42,7 @@ class About extends StatelessWidget {
                 Row(
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
-                    CustomText(
+                    const CustomText(
                       text: "01.",
                       textsize: 20.0,
                       color: Color.fromRGBO(97, 249, 213, 1),
@@ -159,7 +159,7 @@ class About extends StatelessWidget {
                       ),
                     ),
                   ),
-                  CustomImageAnimation()
+                  const CustomImageAnimation()
                 ],
               ),
             ),

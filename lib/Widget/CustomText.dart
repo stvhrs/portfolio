@@ -21,7 +21,7 @@ class CustomText extends StatelessWidget {
       style: TextStyle(
           color: color,
           fontSize: textsize,
-          letterSpacing: letterSpacing != null ?letterSpacing: 0.10        ,  fontWeight:fontWeight ?? FontWeight.w400       ),
+          letterSpacing: letterSpacing ?? 0.10        ,  fontWeight:fontWeight ?? FontWeight.w400       ),
     );
   }
 }
