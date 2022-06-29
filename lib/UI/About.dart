@@ -78,7 +78,7 @@ class About extends StatelessWidget {
                   children: const [
                     CustomText(
                       text:
-                          "Hello! I'm Steve Harris, a Freelancer based in Indonesia, IN.\n\nI enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.\n\n",
+                          "Hello! I'm Steve Harris, a Freelancer based in Indonesia, \n\n I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.\n\n",
                       textsize: 16.0,
                       color: Color(0xff828DAA),
                       letterSpacing: 0.75,

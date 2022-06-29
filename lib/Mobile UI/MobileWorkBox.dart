@@ -46,7 +46,7 @@ class MobileWork2 extends StatelessWidget {
         WorkCustomData(
           title: "Freelance",
           subTitle:
-              "I mostly work on student mobile app assignments",
+              "Most of my freelance projects are made for college assignments",
           duration: "2021 to Present",
         ),
       ],
